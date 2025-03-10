@@ -1,4 +1,5 @@
 Демонстрации различных исходов игр:
+
 Наименьшее общее кратное:
 https://asciinema.org/a/3kwoH5AzOgCamEgQniQ0snIO0
 
