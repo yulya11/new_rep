@@ -1,3 +1,5 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/9387616d062efcf43195/maintainability)](https://codeclimate.com/github/yulya11/new_rep/maintainability)
+
 Демонстрации различных исходов игр:
 
 Наименьшее общее кратное:
